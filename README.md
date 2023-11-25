@@ -7,7 +7,7 @@
 
 ---
 ### What do I know?
-<img align="top" src="https://github.com/okunev-e/okunev-e/blob/main/icons/SRM.png" width="360" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/blank.svg" width="200" align="middle" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/sql.svg" width="45" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/UML.svg" width="90" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/BPMN.svg" width="100" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/python.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/HTML5.svg" width="50" />
+<img align="top" src="https://github.com/okunev-e/okunev-e/blob/main/icons/SRM.png" width="360" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/blank.svg" width="160" align="middle" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/sql.svg" width="45" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/UML.svg" width="90" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/BPMN.svg" width="100" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/python.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/HTML5.svg" width="50" />
 ---
 ### What can I work with?
 <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="50" />
