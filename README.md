@@ -48,9 +48,9 @@ Test scripts included user authorization and transferring received data from one
 
 ### Can I show examples of artifacts all times I've made?
 
-- [x] [UML Diagram Exmaples with 🌱 PlantUML](https://github.com/okunev-e/plantuml_examples)
-- [ ] BPMN Diagrams
-- [ ] SR documents
+- [x] [UML Diagram Examples with 🌱 PlantUML](https://github.com/okunev-e/plantuml_examples)
+- [ ] BPMN Diagrams Examples
+- [ ] SR documents Examples
 - [ ] REST API Examples with Swagger
 
 (Not checked - in processing at this moment)
