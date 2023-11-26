@@ -23,3 +23,25 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### What about BI tools I've used?
+<a href="https://www.metabase.com/" target="blank"><img align="top" src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/bimetabase.svg" width="40" /></a><a href="https://docs.tibco.com/products/tibco-jaspersoft" target="blank"><img align="middle" src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/tibco.svg" width="100" />
+
+There are tools I've used in last 6 years:
+- [BI Metabase](https://www.metabase.com/)
+
+Single charts and complex dashboards including charts with Map (geographic) visualization.
+
+- [TIBCO Jasper Reports](https://docs.tibco.com/products/tibco-jaspersoft)
+
+I've solved case when Report needed to include data from PostgreSQL and MS SQL Server at once.
+
+### So, and what about "some kind of QA"?
+<a href="https://jmeter.apache.org/" target="blank"><img align="top" src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/apache_jmeter.svg" width="110" /></a>
+
+There is a beautiful tool for load testing (and simple testing too) - [Apache Jmeter](https://jmeter.apache.org/).
+
+I was preparing test scripts (scenarios) for microservices of the IT system (backand API) with which we planned to conduct load testing. And collected all these tests into a Windows cmd-script.
+
+Test scripts included user authorization and transferring received data from one request to another.
