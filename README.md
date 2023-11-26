@@ -35,7 +35,7 @@ Single charts and complex dashboards including charts with Map (geographic) visu
 
 - [TIBCO Jasper Reports](https://docs.tibco.com/products/tibco-jaspersoft)
 
-I've solved case when Report needed to include data from PostgreSQL and MS SQL Server at once.
+I've solved case when one Report needed to include data from as PostgreSQL and MS SQL Server at once.
 
 ### So, and what about "some kind of QA"?
 <a href="https://jmeter.apache.org/" target="blank"><img align="top" src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/apache_jmeter.svg" width="110" /></a>
