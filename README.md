@@ -45,3 +45,12 @@ There is a beautiful tool for load testing (and simple testing too) - [Apache Jm
 I was preparing test scripts (scenarios) for microservices of the IT system (backand API) with which we planned to conduct load testing. And collected all these tests into a Windows cmd-script.
 
 Test scripts included user authorization and transferring received data from one request to another.
+
+### Can I show examples of artifacts all times I've made?
+
+- [x] [UML Diagram Exmaples with 🌱 PlantUML](https://github.com/okunev-e/plantuml_examples)
+- [ ] BPMN Diagrams
+- [ ] SR documents
+- [ ] REST API Examples with Swagger
+
+(Not checked - in processing at this moment)
