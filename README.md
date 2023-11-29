@@ -42,7 +42,7 @@ I've solved case when one Report needed to include data from as PostgreSQL and M
 
 There is a beautiful tool for load testing (and simple testing too) - [Apache Jmeter](https://jmeter.apache.org/).
 
-I was preparing test scripts (scenarios) for microservices of the IT system (backand API) with which we planned to conduct load testing. And collected all these tests into a Windows cmd-script.
+I was preparing test scripts (scenarios) for microservices of the IT system (backend API) with which we planned to conduct load testing. And collected all these tests into a Windows cmd-script.
 
 Test scripts included user authorization and transferring received data from one request to another.
 
