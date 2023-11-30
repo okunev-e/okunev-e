@@ -51,6 +51,6 @@ Test scripts included user authorization and transferring received data from one
 - [x] [UML Diagram Examples with 🌱 PlantUML](https://github.com/okunev-e/plantuml_examples)
 - [ ] BPMN Diagrams Examples
 - [ ] SR documents Examples
-- [ ] REST API Examples with Swagger
+- [x] [REST API Examples with Swagger](https://github.com/okunev-e/restapi_examples)
 
 (Not checked - in processing at this moment)
