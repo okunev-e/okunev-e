@@ -7,11 +7,10 @@
 
 ---
 ### What do I know?
-<img align="top" src="https://github.com/okunev-e/okunev-e/blob/main/icons/SRM.png" width="360" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/blank.svg" width="100" height="300" align="middle" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/sql.svg" width="45" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/UML.svg" width="90" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/BPMN.svg" width="100" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/python.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/HTML5.svg" width="50" />
+<img align="top" src="https://github.com/okunev-e/okunev-e/blob/main/icons/SRM.png" width="360" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/blank.svg" width="100" height="300" align="middle" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/sql.svg" width="45" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/UML.svg" width="90" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/BPMN.svg" width="100" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/python.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/HTML5.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/XM_logo.svg" width="80" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/JSON_logo.svg" width="50" />
 ---
 ### What can I work with?
-<img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="50" />
-<img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="130" />
+<img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="130" />
 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -24,6 +23,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/mulesoft_logo.png" width="130" />
 
 ### What about BI tools I've used?
 <a href="https://www.metabase.com/" target="blank"><img align="top" src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/bimetabase.svg" width="40" /></a><a href="https://docs.tibco.com/products/tibco-jaspersoft" target="blank"><img align="middle" src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/tibco.svg" width="100" />
@@ -52,5 +53,6 @@ Test scripts included user authorization and transferring received data from one
 - [ ] BPMN Diagrams Examples
 - [ ] SR documents Examples
 - [x] [REST API Examples with Swagger](https://github.com/okunev-e/restapi_examples)
+- [x] [ASYNC API Examples with Async Studio](https://github.com/okunev-e/asyncapi_examples)
 
 (Not checked - in processing at this moment)
