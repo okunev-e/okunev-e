@@ -11,7 +11,7 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border: none" align="center">
   <tr>
     <td align="center"">
-      <img align="top" src="https://github.com/okunev-e/okunev-e/blob/main/icons/SRM.png" width="360" />
+      <img align="top" src="https://github.com/okunev-e/okunev-e/blob/main/icons/SRM.png" width="390" />
     </td>
   </tr>
   <tr>
