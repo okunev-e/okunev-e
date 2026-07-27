@@ -16,7 +16,13 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/sql.svg" width="35" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/UML.svg" width="80" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/BPMN.svg" width="90" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/python.svg" width="40" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/HTML5.svg" width="40" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/XM_logo.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/JSON_logo.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/sql.svg" width="35" align="left"/>
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/UML.svg" width="80" align="left"/>
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/BPMN.svg" width="90" align="left"/>
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/python.svg" width="40" align="left"/>
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/HTML5.svg" width="40" align="left"/>
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/XM_logo.svg" width="50" align="left"/>
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/JSON_logo.svg" width="40" />
     </td>
   </tr>
 </table>
