@@ -32,8 +32,8 @@
 
 <table>
   <tr>
-    <td align="left">
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="30" align="left" />
+    <td>
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="30" align="left" style="margin:0 10"/>
       <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="30" align="left" />
       <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="110" align="left" />
     </td>
