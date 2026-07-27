@@ -30,28 +30,36 @@
 ---
 ### What can I work with?
 
-<p align="left">
-      <a href="#"><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="30" /></a>
-      <a href="#"><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="30" /></a>
-      <a href="#"><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="110" /></a>
-</p>
-<p align="left">
-      <a href="#"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /></a>
-      <a href="#"><img src="(https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-</p>
-<p align="left">
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Sybase_logo.svg" height="30" />
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/mulesoft_logo.png" height="60" />
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="30" align="left" />
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="30" align="left" />
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="110" align="left" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" align="left" />
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" align="left" />
+      <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" align="left" />
+      <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" align="left" />
+      <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" align="left" />
+      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" align="left" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="left" />
+      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" align="left" />
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" align="left" />
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" align="left" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" align="left" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Sybase_logo.svg" height="30" align="left" />
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/mulesoft_logo.png" height="60" align="left" />
+    </td>
+  </tr>
+</table>
 
 
 ### What about BI tools I've used?
