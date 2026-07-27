@@ -10,10 +10,10 @@
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none">
   <tr>
-    <td width="50%">
-      <img align="top" src="https://github.com/okunev-e/okunev-e/blob/main/icons/SRM.png" width="320" />
+    <td width="30%">
+      <img align="top" src="https://github.com/okunev-e/okunev-e/blob/main/icons/SRM.png" width="300" />
     </td>
-    <td width="50%" align="center">
+    <td width="70%">
       <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/sql.svg" width="45" />&nbsp;<img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/UML.svg" width="90" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/BPMN.svg" width="100" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/python.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/HTML5.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/XM_logo.svg" width="80" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/JSON_logo.svg" width="50" />
     </td>
   </tr>
@@ -21,7 +21,9 @@
 
 ---
 ### What can I work with?
+<p>
 <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="130" />
+</p>
 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -35,10 +37,12 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+<p>
 <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Sybase_logo.svg" width="100" />
-
+</p>
+<p>
 <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/mulesoft_logo.png" width="130" />
-
+</p>
 ### What about BI tools I've used?
 <a href="https://www.metabase.com/" target="blank"><img align="top" src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/bimetabase.svg" width="40" /></a><a href="https://docs.tibco.com/products/tibco-jaspersoft" target="blank"><img align="middle" src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/tibco.svg" width="100" />
 
