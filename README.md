@@ -10,11 +10,11 @@
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none">
   <tr>
-    <td width="30%">
-      <img align="top" src="https://github.com/okunev-e/okunev-e/blob/main/icons/SRM.png" width="300" />
+    <td width="40%">
+      <img align="top" src="https://github.com/okunev-e/okunev-e/blob/main/icons/SRM.png" width="320" />
     </td>
-    <td width="70%">
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/sql.svg" width="45" />&nbsp;<img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/UML.svg" width="90" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/BPMN.svg" width="100" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/python.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/HTML5.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/XM_logo.svg" width="80" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/JSON_logo.svg" width="50" />
+    <td width="60%">
+      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/sql.svg" width="35" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/UML.svg" width="80" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/BPMN.svg" width="90" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/python.svg" width="40" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/HTML5.svg" width="40" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/XM_logo.svg" width="40" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/JSON_logo.svg" width="40" />
     </td>
   </tr>
 </table>
@@ -22,7 +22,7 @@
 ---
 ### What can I work with?
 <p>
-<img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="50" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="130" />
+<img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="40" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="40" /><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="120" />
 </p>
 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
