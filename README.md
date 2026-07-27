@@ -31,9 +31,9 @@
 ### What can I work with?
 
 <p align="left">
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="30" />
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="30" />
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="110" "/>
+      <a href="#"><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="30" /></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="30" /></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="110" "/></a>
 </p>
 <p align="left">
       <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
@@ -57,7 +57,7 @@
 ### What about BI tools I've used?
 <p align="left">
   <a href="https://www.metabase.com/" target="blank"><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/bimetabase.svg" width="40" /></a>
-  <a href="https://docs.tibco.com/products/tibco-jaspersoft" target="blank"><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/tibco.svg" width="100" />
+  <a href="https://docs.tibco.com/products/tibco-jaspersoft" target="blank"><img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/tibco.svg" width="100" /></a>
 </p>
 
 There are tools I've used in last 6 years:
