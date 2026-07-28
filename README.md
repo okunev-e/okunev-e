@@ -30,37 +30,25 @@
 ---
 ### What can I work with?
 
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/PyCharm.svg" width="30" align="left" style="margin:0 10"/>
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="30" align="left" />
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="110" align="left" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" align="left" />
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" align="left" />
-      <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" align="left" />
-      <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" align="left" />
-      <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" align="left" />
-      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" align="left" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="left" />
-      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" align="left" />
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" align="left" />
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" align="left" />
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" align="left" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Sybase_logo.svg" height="30" align="left" />
-      <img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/mulesoft_logo.png" height="60" align="left" />
-    </td>
-  </tr>
-</table>
-
+[<img src="./icons/PyCharm.svg" width="30" align="left" alt="PyCharm"/>](https://www.jetbrains.com/pycharm/)
+[<img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/VS-code.svg" width="30" align="left" alt="Microsoft Visual Studio Code"/>](https://code.visualstudio.com/)
+[<img src="https://raw.githubusercontent.com/okunev-e/okunev-e/main/icons/Plantuml.svg" width="110" align="left" alt="PlantUML"/>](https://plantuml.com/ru/)
+<br><br><br>
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Micrsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsofr Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<br><br>
+[<img src="./icons/Sybase_logo.svg" height="30" align="left" alt="SAP Sybase"/>](https://www.sap.com/products/acquired-brands/what-is-sybase.html)
+[<img src="./icons/mulesoft_logo.png" height="60" align="left" alt="Mule Soft"/>](https://www.mulesoft.com/)
+<br><br>
 
 ### What about BI tools I've used?
 <p align="left">
