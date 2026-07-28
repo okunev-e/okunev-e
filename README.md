@@ -90,3 +90,11 @@ Test scripts included user authorization and transferring received data from one
 I worked extensively with:
 - ElasticSearch (Kibana) ![ElasticSearch (Kibana)](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
 - Graylog <img src ="https://upload.wikimedia.org/wikipedia/commons/b/b2/Graylog_logo.svg" width="80" />
+
+### And some interesting and fun facts about me
+Threre is my article "[Python Programming for Minecraft: A Guide for Curious Parents](https://vk.ru/@50030001-programmirovanie-na-python-dlya-minecraft-dlya-roditeley)" (in Russian - "[Программирование на Python для Minecraft: руководство для любопытных родителей](https://vk.ru/@50030001-programmirovanie-na-python-dlya-minecraft-dlya-roditeley)"). 
+<br><br>
+There is my creative project "[Let's Hit the Rally with Signs! Or Road Signs: Hacked](https://okunev-e.livejournal.com/photo/album/1451/)" (2000s, in Russian - "[Ударим знаками по автопробегу! Или Дорожные знаки: хакнуто](https://okunev-e.livejournal.com/photo/album/1451/)"):<br>
+[<img src="https://ic.pics.livejournal.com/okunev_e/20440353/15737/15737_original.jpg" width="160" alt="Road Signs: Hacked"/>](https://okunev-e.livejournal.com/photo/album/1451/)
+<br><br>
+I can also play the [jaw's harp](https://en.wikipedia.org/wiki/Jew's_harp) (in Russian - "[варган](https://ru.wikipedia.org/wiki/Варган)").
